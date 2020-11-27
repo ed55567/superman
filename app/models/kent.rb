@@ -1,0 +1,2 @@
+class Kent < ApplicationRecord
+end
