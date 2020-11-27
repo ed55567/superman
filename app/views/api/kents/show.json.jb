@@ -1,0 +1,9 @@
+{
+  superman: @kent.superman,
+  lois: @kent.lois,
+  luthor: @kent.luthor,
+  year: @kent.year,
+  villian: @kent.villian,
+  director: @kent.director,
+  description: @kent.description,
+}
